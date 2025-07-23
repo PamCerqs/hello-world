@@ -7,11 +7,13 @@
 
 ## 🚧 **Em Construção**  
 Estou preparando meus primeiros projetos! Volte em breve 😊  
+## Por enquanto dê uma olhada no meu primeiro moodboard 😭
+![Meu Moodboard](/images/p.jpg)
 ---
 ## **Minhas Habilidades**  
 | Área       | Tecnologias           | Nível        |  
 |------------|-----------------------|-------------|  
-| **Front**  | HTML, CSS, JS         | Intermediário |  
+| **Front**  | HTML, CSS, JS         | Básico |  
 | **Design** | Figma, UI/UX          | Básico      |  
 | **Marketing** | SEO, Google Analytics | Básico      |  
 
@@ -38,6 +40,6 @@ Estou preparando meus primeiros projetos! Volte em breve 😊
 ## 📫 **Como Me Encontrar**
 - 💼 [LinkedIn](https://www.linkedin.com/in/pamelasousacerq/)  
 - ✉️ Email: pamelacerqueira30@gmail.com
-- 🐱 GitHub: [@seunome](https://github.com/seunome) 
+- 🐱 GitHub: [@PamCerqs](https://github.com/PamCerqs) 
 
 
