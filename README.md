@@ -5,8 +5,13 @@
 
 ---
 
-## 🚧 **Em Construção**  
-Estou preparando meus primeiros projetos! Volte em breve 😊  
+## 🗃️ **Projetos**  
+Atualmente estou trabalhando nesse case durante a 5ª edição do Webinar gratuito da EBAC em UX/UI!
+Obviamente é meu 1º projeto, com o tempo serei mais a habilidadosa e eles serão muito mais estéticos e funcionais!!!
+[CASE EBACRoad](https://www.figma.com/slides/F6T3VTUbpYOpLdfeJcJ0TI/EBACROADpamelacerqueira?node-id=1-69&t=E71BOexsfd7uaL4u-1)
+
+---
+
 ## Por enquanto dê uma olhada no meu primeiro moodboard 😭
 ![Meu Moodboard](/images/p.jpg)
 ---
