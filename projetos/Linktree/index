@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="ribbon.png" type="image/x-icon" />
+    <meta name="description" content="Linktree Portifólio de Pamela Cerqueira" />
+    <meta name="keywords" content="Pamela Cerqueira, Portifólio" />
+    <meta name="author" content="Pamela Cerqueira" />
+    <title>Pamela Cerqueira Linktree Portifólio</title>
+</head>
+<body>
+    <header>
+        <figure>
+            <img src="Imagem do WhatsApp de 2025-07-21 à(s) 17.48.18_be039380.jpg" alt="foto do perfil" />
+        </figure>
+        <h1>Pâmela Cerqueira</h1>
+        <h2> 👩🏽‍💻 Estudante de Marketing/UI-UX/Front end</h2>
+    </header>
+    <main>
+        <a href="https://github.com/PamCerqs">
+          <button>🗃️ GitHub</button>  
+        </a>
+        <a href="https://www.linkedin.com/in/pamelasousacerq/">
+          <button>👥 LinkedIn</button>  
+        </a>
+        <a href="https://www.figma.com/@pamelacerqueira">
+          <button>🎨 Figma</button>  
+        </a>
+        <a href="mailto:pamelacerqueira30@gmail.com">
+          <button>📫 Email</button>
+        </a>
+    </main>
+    <footer>
+        <p>Feito com 💜 por &copy Pamela Cerqueira. 2025</p>
+    </footer>
+</body>
+</html>
