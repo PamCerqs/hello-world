@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pamcerqs&label=Profile%20views&color=eea0e7&style=plastic" alt="pamcerqs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pamcerqs" alt="pamcerqs" /></a> </p>
-
 - 🔭 I’m currently working on [my neocities site](https://dapamps.neocities.org/)
 
 - 🌱 I’m currently learning **Figma, Css, UX**
 
-- 👯 I’m looking to collaborate on [Some Dev Girls](#)
+- 👯 I’m looking to collaborate on [Some Dev Girls]
 
-- 🤝 I’m looking for help with [Ux/Ui](#)
+- 🤝 I’m looking for help with [Ux/Ui]
 
 - 👨‍💻 All of my projects are available at [https://pamcerqs.github.io/hello-world/](https://pamcerqs.github.io/hello-world/)
 
@@ -24,10 +22,6 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/pamelasousacerq/](https://www.linkedin.com/in/pamelasousacerq/)
 
 - ⚡ Fun fact **i'm sagitarius**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
